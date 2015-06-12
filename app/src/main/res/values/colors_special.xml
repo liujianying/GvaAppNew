@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+   <!-- 特产 -->
+   <color name="app_specialty_home_type_01">#fe753c</color>
+   <color name="app_specialty_home_type_02">#4dc5e2</color>
+   <color name="app_specialty_home_type_03">#4bd43b</color>
+   <color name="app_specialty_home_type_04">#efac32</color>
+   <color name="app_specialty_home_type_05">#3b99ec</color>
+   <color name="app_specialty_home_type_06">#e39f59</color>
+   <color name="app_specialty_home_type_07">#a17be5</color>
+   <color name="app_specialty_home_type_08">#fa7da0</color>
+   <color name="color_specialty_type_pop_red">#e62f16</color>
+</resources>

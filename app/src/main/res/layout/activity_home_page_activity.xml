@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    xmlns:rv="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="150dp"
+    android:background="@color/white"
+    android:gravity="center"
+    android:orientation="horizontal">
+
+    <!-- 左边位置 -->
+    <gva.ydh.com.rippleviewlibrary.RippleView
+        android:id="@+id/layout_left"
+        android:layout_width="-1dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="5"
+        android:paddingTop="5dp"
+        android:orientation="vertical"
+        android:visibility="visible"
+        rv:rv_color="@color/title_color">
+
+        <TextView
+            android:id="@+id/title_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:gravity="left"
+            android:text="限时抢购"
+            android:textColor="#131313"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/sub_title_left"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/title_left"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="6.7dp"
+            android:layout_marginTop="6dp"
+            android:lineSpacingExtra="2dp"
+            android:maxLines="2"
+            android:text="每天准点开抢"
+            android:textColor="#646464"
+            android:textSize="12sp" />
+
+        <com.ydh.gva.base.widget.WLImageView
+            android:id="@+id/iv_pic_left"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_below="@id/sub_title_left"
+            android:layout_marginBottom="3dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="6.7dp"
+            android:layout_marginTop="10dp"
+            fresco:backgroundImage="@color/transparent"
+            fresco:placeholderImage="@mipmap/pic_default_home_activity_left"
+            fresco:placeholderImageScaleType="fitEnd" />
+
+    </gva.ydh.com.rippleviewlibrary.RippleView>
+
+    <View
+        android:layout_width="0.5dp"
+        android:layout_height="match_parent"
+        android:background="#dcdcdc" />
+
+    <LinearLayout
+        android:paddingTop="5dp"
+        android:id="@+id/layout_right"
+        android:layout_width="-1dp"
+        android:layout_height="fill_parent"
+        android:layout_weight="4"
+        android:orientation="vertical">
+        <!-- 上边位置 -->
+        <gva.ydh.com.rippleviewlibrary.RippleView
+            android:id="@+id/layout_top"
+            android:layout_width="match_parent"
+            android:layout_height="-1dp"
+            android:layout_weight="1"
+            android:visibility="visible"
+            rv:rv_color="@color/title_color">
+
+            <RelativeLayout
+                android:id="@+id/layout_iv_pic"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentRight="true"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <com.ydh.gva.base.widget.WLImageView
+                    android:id="@+id/iv_pic_top"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentBottom="true"
+                    fresco:backgroundImage="@color/transparent"
+                    fresco:placeholderImage="@mipmap/pic_default_home_activity_right"
+                    fresco:placeholderImageScaleType="fitEnd" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/layout_iv_pic"
+                android:gravity="top|left"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/title_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="今日特惠好的"
+                    android:textColor="#131313"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/sub_title_top"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="6dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="6.7dp"
+                    android:layout_marginTop="6dp"
+                    android:lineSpacingExtra="2dp"
+                    android:maxLines="2"
+                    android:text="7件商品低至1折"
+                    android:textColor="#646464"
+                    android:textSize="12sp" />
+
+            </LinearLayout>
+
+        </gva.ydh.com.rippleviewlibrary.RippleView>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:background="#dcdcdc" />
+
+        <!-- 下面位置 -->
+        <gva.ydh.com.rippleviewlibrary.RippleView
+            android:id="@+id/layout_bottom"
+            android:layout_width="match_parent"
+            android:layout_height="-1dp"
+            android:layout_weight="1"
+            android:visibility="visible"
+            rv:rv_color="@color/title_color">
+
+            <RelativeLayout
+                android:id="@+id/layout_iv_pic2"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentRight="true"
+                android:orientation="vertical"
+                android:padding="5dp">
+
+                <com.ydh.gva.base.widget.WLImageView
+                    android:id="@+id/iv_pic_bottom"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_centerVertical="true"
+                    fresco:backgroundImage="@color/transparent"
+                    fresco:placeholderImage="@mipmap/pic_default_home_activity_right"
+                    fresco:placeholderImageScaleType="fitEnd" />
+            </RelativeLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:layout_centerVertical="true"
+                android:layout_toLeftOf="@id/layout_iv_pic2"
+                android:gravity="top|left"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/title_bottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:ellipsize="end"
+                    android:singleLine="true"
+                    android:text="美容养生"
+                    android:textColor="#131313"
+                    android:textSize="15sp" />
+
+                <TextView
+                    android:id="@+id/sub_title_bottom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="6.7dp"
+                    android:layout_marginTop="6dp"
+                    android:lineSpacingExtra="2dp"
+                    android:maxLines="2"
+                    android:text="冬天养生根茎类食物有效果trewtrewtrewtrewtrew"
+                    android:textColor="#646464"
+                    android:textSize="12sp" />
+            </LinearLayout>
+        </gva.ydh.com.rippleviewlibrary.RippleView>
+    </LinearLayout>
+
+</LinearLayout>

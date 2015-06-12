@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/GvaApp/util/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fff10767007e4ea3665d265051c89ed263719f57">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-118d6fd40df31c2fe177b4093e4cb745cc7e5753.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-268d494dccd5310b6d9d24dbec64a5f6cfa3ccdb.jar" />
+    </item>
+    <item
+        jar="/android_ADT/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-be8e9c581044c19dad7f9e0a5f744635f6653464.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/GvaApp/rippleviewlibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="54a36921004806082fe6c0332d5a77335aaf1019">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-88fa4818bbdc4069f6c2fa80ee57ec67fcfe95c9.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/libs/AMap_Services_V2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3057067b0d15469c99c2e8b1a87d66c94862ac7a">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/AMap_Services_V2.4.0-c8e1721f8de0cd03986a1ce007381065f1544ed8.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/GvaApp/baseui/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="082e34c29bd4d27a4302315897a3fa2fd87ac1df">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-1f3b70d8df78a7873480b8d0380c35b8bc54ccca.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/libs/pinyin4j-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ae353005f973da1cd8545b54354504c2503f6865">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/pinyin4j-2.5.0-3e55170a307da06243353c69e664ef68e1895fc1.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-b36a8812b9620265a105b1658a7f499b531fc3fb.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-6d45876af5c048dcee18667799fcea0d1c66b679.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/GvaApp/swipeBacklibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bd96b809b64662b9995712435f3d7b77c9ba1b24">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-b9abd54332ac9fadc43af2e11bbaeb469d1ff86c.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.5.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2fc5593ddd0c2ae29f4623e13e452c2d88bcad0">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-b818b833ec77d96a8a36d8c3fbb21176828c9781.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.5.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cd4a2b0df827bebc39c620c3df0379655adabd8c">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-8addf8e1d5ca2498b05024c5bdee4dcfb3aa99d8.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/gson-2.3.1-20200aae0ace0e461ef981abad9c8a68e0370421.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-d3e339ce59a55f91256628dcae4a6e005582c28d.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/okhttp-2.4.0-4babf388c8b48c31d9f626a36464ae49e01fdd2b.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.alibaba/fastjson/1.2.5/9f675e9a1b2bf1224183005752a9214226e8aa8e/fastjson-1.2.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9f675e9a1b2bf1224183005752a9214226e8aa8e">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/fastjson-1.2.5-db4807c8ffe424ca7d17d6776bdd6b9d7868125d.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/libs/Android_Location_V1.3.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b64d1f38ef7ee28b538d61a39d040f249c65587c">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/Android_Location_V1.3.2-bf6a460930fd654418a0dcbceb9455d9af71878f.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-2dfb6a048bc86293157e368456350e2cef0c3ca4.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5b183bff14cbc2b67365a0dc1ac0e537e1f5fa04.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.4.0/5b72bf48563ea8410e650de14aa33ff69a3e8c35/okio-1.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b72bf48563ea8410e650de14aa33ff69a3e8c35">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/okio-1.4.0-1eae7ad88e9393b86f6cb801fcc7ab8786a93911.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/libs/Android_2DMapApi_V2.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adca12b4530f28ebf2c0d333cb35b67191400c49">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/Android_2DMapApi_V2.4.1-aac340ad7112aaa0111e7b62b10edfa9ef19787e.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/eventbus-2.4.0-d597327b3790d4fae9778be928a5364583ab5141.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-47a164e049ffb054cc17ff3bc3f5080f7d024170.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.5.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="28df9804d10dcce9235dde6dc95e5ed9eb21f0f0">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-b47337e3e20cd6b6d1bcf7397acb9404bbe286cc.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/GvaApp/loadview/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="51a24c3f6bcf96035312422cc26bc9d858ad3c00">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-1b4ed256e9097ff62404d44f6f0daecc46e26eea.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/library-2.4.0-bcd91b6d2a66221095e6104caa0a7fb4e046dd98.jar" />
+    </item>
+    <item
+        jar="/Users/liujianying/GvaApp/localtion/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.5.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c48f4fa9decc24778e885a147169988d4358b8e">
+        <dex dex="/Users/liujianying/GvaApp/localtion/build/intermediates/pre-dexed/debug/classes-97e17beddbcebdf56392fe7348b9b3587b9fe535.jar" />
+    </item>
+
+</items>

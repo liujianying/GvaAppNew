@@ -1,0 +1,50 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion "22.0.1"
+    android {
+        lintOptions {
+            abortOnError false
+        }
+    }
+
+    defaultConfig {
+        minSdkVersion 9
+        targetSdkVersion 22
+        versionCode 1
+        versionName "1.0"
+    }
+
+//    signingConfigs {
+//        myConfig {
+//            storeFile file("/Users/liujianying/Downloads/签名文件/weile.keystore")
+////XXXX.keystore是要打包的Key（注意：要把key放到项目根目录下）
+//            storePassword "yidinhuoweile"//密钥库的密码
+//            keyAlias "weile"//key的别名
+//            keyPassword "yidinhuoweile"//XXXX.keystore的密码（为方便记忆，可以和storePassword一样）
+//        }
+//    }
+//
+//
+//
+//    buildTypes {
+//        release {
+//
+//            minifyEnabled true
+//            shrinkResources true
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//            signingConfig signingConfigs.myConfig
+//        }
+//        debug {
+//            signingConfig signingConfigs.debug
+//            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+//        }
+//    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile project(':loadview')
+    compile project(':baseui')
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white_80"
+    android:id="@+id/nested_scrollview">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.ydh.gva.base.widget.MyGridView
+            android:id="@+id/grid_classifys"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="20dp"
+            android:fadingEdge="none"
+            android:fadingEdgeLength="0dp"
+            android:gravity="center"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:overScrollMode="never"
+            android:paddingLeft="8.0dp"
+            android:paddingRight="8.0dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@color/title_color" />
+
+        <com.ydh.gva.base.widget.MyGridView
+            android:id="@+id/grid_tags"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:fadingEdge="none"
+            android:fadingEdgeLength="0dp"
+            android:gravity="center"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:overScrollMode="never"
+            android:paddingLeft="8.0dp"
+            android:paddingRight="8.0dp" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:background="@color/title_color" />
+
+        <com.ydh.gva.base.widget.MyGridView
+            android:id="@+id/grid_floors"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="15dp"
+            android:fadingEdge="none"
+            android:fadingEdgeLength="0dp"
+            android:gravity="center"
+            android:listSelector="@null"
+            android:numColumns="3"
+            android:overScrollMode="never"
+            android:paddingLeft="8.0dp"
+            android:paddingRight="8.0dp" />
+    </LinearLayout>
+
+
+</android.support.v4.widget.NestedScrollView>

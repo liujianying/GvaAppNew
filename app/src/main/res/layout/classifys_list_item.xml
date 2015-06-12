@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:paddingTop="8dp">
+
+
+    <com.ydh.gva.base.widget.WLImageView xmlns:fresco="http://schemas.android.com/apk/res-outo"
+        android:id="@+id/clasifys_img"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        fresco:placeholderImage="@color/blue_500"
+        fresco:placeholderImageScaleType="fitCenter" />
+
+
+</android.support.v7.widget.CardView>
